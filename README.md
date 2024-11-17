@@ -8,7 +8,7 @@
 ## Basic Details
 ### Team Name: [Name]
 
-deploy link:https://abel-kurian.github.io/Useless_Submission/
+deploy link:https://abel-kurian.github.io/useless_project_temp/
 ### Team Members
 - Team Lead: [Abel Kurian] -[Toc H Institute of Science and Technology]
 - Member 2: [Leela Bobby] - [Toc H Institute of Science and Technology]
